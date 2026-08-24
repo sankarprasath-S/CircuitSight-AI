@@ -160,5 +160,3 @@ User corrections are captured as **pending review evidence**. They are not silen
 This repository is the active CircuitSight AI / IDK application project. Review the repository’s existing licensing and contribution policies before redistributing or extending the codebase.
 
 [![Built with care](https://img.shields.io/badge/Built%20with-care-DFE104?style=flat-square&logo=github&logoColor=09090B)](https://github.com/Vishalkumaran2007/CircuitSightAI)
-#   C i r c u i t S i g h t - A I  
- 
